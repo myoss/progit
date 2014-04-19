@@ -4,5 +4,5 @@
 3 modify
 4 mdofiy --> amend 3
 5 modify
-branch b1 1 modify
+branch b1 1 modify  branch b1 3 modify
 branch b1 2 modify
