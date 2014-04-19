@@ -2,4 +2,4 @@
 2 modify
 3 modify
 branch b1 1 modify  branch b1 3 modify
-branch b1 2 modify
+branch b1 2 modify  branch b1 4 modify
